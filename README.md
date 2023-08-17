@@ -1,4 +1,4 @@
-#CycleGAN Monet Paintings
+# CycleGAN Monet Paintings
 
 This Jupyter notebook provides a step-by-step guide to implement and train a Cycle Generative Adversarial Network (CycleGAN) to generate paintings in the style of Claude Monet.
  Content Overview:
